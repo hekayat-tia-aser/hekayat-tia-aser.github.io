@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.hekayatiaaser.game",
+        "sha256_cert_fingerprints": ["38:45:FB:FA:ED:E8:03:9C:94:4E:1B:77:34:FC:91:98:0D:8C:35:3E:D1:C2:67:07:29:18:20:26:D7:16:16:38"]
+      }
+    }]
